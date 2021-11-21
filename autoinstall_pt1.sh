@@ -6,7 +6,6 @@ echo "CLONANDO REPOS, ESTO PUEDE TARDAR UN RATILLO PERO TEN PACIENCIA ;)"
 git clone https://www.github.com/ryanoasis/nerd-fonts
 git clone https://www.github.com/LiLPandemio/customlinux
 git clone https://www.github.com/ranger/ranger
-git clone https://www.github.com/derf/feh
 git clone https://www.github.com/polybar/polybar
 git clone https://www.github.com/Peltoche/lsd
 git clone https://www.github.com/sharkdp/bat
