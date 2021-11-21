@@ -1,7 +1,7 @@
 cd ~/Downloads
 mkdir cloned
 cd cloned
-sudo apt install git zsh polybar
+sudo apt install git zsh
 echo "CLONANDO REPOS, ESTO PUEDE TARDAR UN RATILLO PERO TEN PACIENCIA ;)"
 git clone https://www.github.com/ryanoasis/nerd-fonts
 git clone https://www.github.com/LiLPandemio/customlinux
